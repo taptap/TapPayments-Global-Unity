@@ -1,0 +1,13 @@
+{
+  "name": "com.taptap.tds.payments.global",
+  "displayName": "TapTap Payments Global",
+  "description": "TapTap Develop Service",
+  "version": "3.23.0",
+  "unity": "2018.3",
+  "license": "MIT",
+  "dependencies": {
+    "com.taptap.tds.login":"https://github.com/TapTap/TapLogin-Unity.git#3.23.0",
+    "com.taptap.tds.common":"https://github.com/TapTap/TapCommon-Unity.git#3.23.0",
+    "com.tapsdk.androiddependencyresolver": "https://github.com/TapTap/Android_Dependency_Resolver.git#1.1.5"
+  }
+}
